@@ -1,8 +1,3 @@
-# My Name is Shaxzod Mirmuminov
-<hr>
-
-## About Me
-I'm a **Python Developer** specializing in **Back-End Development**,**Machine Learning**,**Deep Learning**,**Articial Intelligence**.
 
 # 👋 Welcome to My Digital Workspace
 
@@ -15,7 +10,10 @@ I'm a **Python Developer** specializing in **Back-End Development**,**Machine Le
   [![GitHub followers](https://img.shields.io/github/followers/ShakhzodMirmuminov?label=Follow&style=social)](https://github.com/ShakhzodMirmuminov)
   
 </div>
- 
+
+ ## About Me
+I'm a **Python Developer** specializing in **Back-End Development**,**Machine Learning**,**Deep Learning**,**Articial Intelligence**.
+
 ## Get in Touch
 - [Telegram](https://t.me/prllnce_m)
 - [Linkedin](https://linkedin.com/in/shaxzod-mirmuminov)
@@ -86,22 +84,17 @@ I'm a **Python Developer** specializing in **Back-End Development**,**Machine Le
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShakhzodMirmuminov&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ShakhzodMirmuminov)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakhzodMirmuminov/ShakhzodMirmuminov/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShakhzodMirmuminov/ShakhzodMirmuminov/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShakhzodMirmuminov/ShakhzodMirmuminov/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
-## Contribution Graph
-<div align="center">
-
-  ![Snake animation](https://github.com/ShakhzodMirmuminov/ShakhzodMirmuminov/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 
 
@@ -123,6 +116,7 @@ Feel free to reach out if you have any questions or collaboration ideas.
   
   **Thanks for visiting! Let's connect and build something amazing together! 🚀**
   
-  ![Visitor Count](https://profile-counter.glitch.me/ShakhzodMirmuminov/count.svg)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=ShakhzodMirmuminov&color=58A6FF&style=for-the-badge)
   
 </div>
