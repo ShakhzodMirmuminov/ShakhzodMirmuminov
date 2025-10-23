@@ -84,7 +84,7 @@ I'm a **Python Developer** specializing in **Back-End Development**,**Machine Le
 </div>
 
 ---
-## 📈 Contribution Graph
+##Contribution Graph
 
 <div align="center">
   
